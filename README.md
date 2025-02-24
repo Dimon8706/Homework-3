@@ -1,8 +1,8 @@
-# Week 5 Homework: Advanced Creational Patterns – Builder & Prototype
+# Week 4 Homework: Advanced Creational Patterns – Builder & Prototype
 
 ## Overview
 
-In Week 2, we explored two advanced Creational Patterns: **Builder** and **Prototype**. These patterns help solve the challenges of constructing complex objects and efficiently replicating similar objects, respectively. In this homework, you will apply what you've learned by implementing these patterns in the context of our project. You may choose one or more of the following tasks.
+In Week 4, we explored two advanced Creational Patterns: **Builder** and **Prototype**. These patterns help solve the challenges of constructing complex objects and efficiently replicating similar objects, respectively. In this homework, you will apply what you've learned by implementing these patterns in the context of our project. You may choose one or more of the following tasks.
 
 ## Assignments
 
